@@ -17,16 +17,13 @@ function App() {
   },[])
 
   return (
-    // <div className="App">
-    //   <Main data={data}/>
-    // </div>
+
 
     <div>
       <BrowserRouter>
       <Routes>
         <Route path='/' element={<Main data={data}/>}/>
         <Route path='/details' element={<Details data={data}/>}/>
-
       </Routes>
       </BrowserRouter>
     </div>
