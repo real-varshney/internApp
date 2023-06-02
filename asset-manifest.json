@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/real-varshney/internApp/static/css/main.409c1f50.css",
-    "main.js": "/real-varshney/internApp/static/js/main.7491d42a.js",
-    "static/js/787.1a89ecd2.chunk.js": "/real-varshney/internApp/static/js/787.1a89ecd2.chunk.js",
-    "index.html": "/real-varshney/internApp/index.html",
-    "main.409c1f50.css.map": "/real-varshney/internApp/static/css/main.409c1f50.css.map",
-    "main.7491d42a.js.map": "/real-varshney/internApp/static/js/main.7491d42a.js.map",
-    "787.1a89ecd2.chunk.js.map": "/real-varshney/internApp/static/js/787.1a89ecd2.chunk.js.map"
+    "main.css": "/real-varshney/internapp/static/css/main.409c1f50.css",
+    "main.js": "/real-varshney/internapp/static/js/main.d66ce0c7.js",
+    "static/js/787.1a89ecd2.chunk.js": "/real-varshney/internapp/static/js/787.1a89ecd2.chunk.js",
+    "index.html": "/real-varshney/internapp/index.html",
+    "main.409c1f50.css.map": "/real-varshney/internapp/static/css/main.409c1f50.css.map",
+    "main.d66ce0c7.js.map": "/real-varshney/internapp/static/js/main.d66ce0c7.js.map",
+    "787.1a89ecd2.chunk.js.map": "/real-varshney/internapp/static/js/787.1a89ecd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.409c1f50.css",
-    "static/js/main.7491d42a.js"
+    "static/js/main.d66ce0c7.js"
   ]
 }
